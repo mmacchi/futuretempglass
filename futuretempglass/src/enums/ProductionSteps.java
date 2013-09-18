@@ -3,7 +3,8 @@ package enums;
 public enum ProductionSteps {
 
 	TEMPER("Tempering"),
-	POLISH("Polishing");
+	POLISH("Polishing"),
+	SANDBLAST("Sandblasting");
 	
 	private String stepName;
 	
